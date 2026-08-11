@@ -25,3 +25,10 @@ templates (templates/), the execution harness (run_audit.py), binding data
 manifest (data_manifest.json), DEVIATIONS.md (two entries), and the
 diagnostic. Data files are not vendored; fetch and verify per the protocol
 repository DATA_PROVENANCE.md.
+
+## Archive
+
+- Zenodo (version): https://doi.org/10.5281/zenodo.21893572
+- Zenodo (concept): https://doi.org/10.5281/zenodo.21893571
+- Protocol: https://doi.org/10.5281/zenodo.21893436 (tag v0.1.1-candidate)
+- Archived bytes verified identical to the v0.1.0-candidate release asset.

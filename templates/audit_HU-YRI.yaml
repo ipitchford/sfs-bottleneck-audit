@@ -1,0 +1,16 @@
+audit_version: "0.1"
+protocol: "sfs-bottleneck-audit-protocol v0.1.1 (frozen)"
+dataset_id: "HU-YRI"
+sample_size_haplotypes: 216
+claim:
+  exact_wording: "A severe bottleneck (about 1280 breeding individuals, ratio about 0.05-0.1 of surrounding epochs) occurred 930-813 kya."
+  feature_type: "functional (depression ratio F1)"
+results:
+  bounded_cells: 0
+  class_rejected_cells: 24
+  f1_certified_intervals_file: "results/HU-YRI.json"
+  severity_excluded_cells: 0
+conclusion:
+  label: "not evaluable under declared protocol (universal class rejection; outside the five-label enum, see conclusion)"
+  strongest_warranted_claim: "Every declared (overdispersion, budget) cell rejects this spectrum: no single-population Kingman history on the declared grid reproduces it within the declared error model. The severity claim is therefore not evaluable under this protocol; evaluating it requires an error model conceding a far smaller effective information content (see POST_HOC_DIAGNOSTICS.md), under which the identified sets would widen accordingly."
+  falsifier: "A history in the declared class reproducing the spectrum within the declared boxes would falsify the rejection."

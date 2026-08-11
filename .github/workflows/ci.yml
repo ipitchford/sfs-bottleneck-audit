@@ -1,0 +1,27 @@
+name: ci
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: manifest verifies
+        run: shasum -a 256 -c SHA256SUMS
+      - name: results parse and receipt is consistent
+        run: |
+          python3 - <<'PY'
+          import json, pathlib
+          rows = 0
+          for f in pathlib.Path("results").glob("*.json"):
+              if f.name.startswith("RELEASE"): continue
+              data = json.loads(f.read_text())
+              assert all(r.get("outcome") in ("bounded","class_rejected","aborted") for r in data)
+              rows += len(data)
+          receipt = json.loads(pathlib.Path("results/RELEASE_B_RECEIPT.json").read_text())
+          assert receipt["rows"] == rows, (receipt["rows"], rows)
+          assert receipt["aborted_rows"] == 0
+          print("receipt consistent:", rows, "rows")
+          PY

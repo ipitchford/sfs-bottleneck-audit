@@ -1,0 +1,194 @@
+[
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 1.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 0.5
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 1.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 2.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 1.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 5.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 1.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 10.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 1.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 20.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 1.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 50.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 2.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 0.5
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 2.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 2.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 2.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 5.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 2.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 10.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 2.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 20.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 2.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 50.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 5.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 0.5
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 5.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 2.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 5.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 5.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 5.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 10.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 5.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 20.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 5.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 50.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 10.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 0.5
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 10.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 2.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 10.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 5.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 10.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 10.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 10.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 20.0
+ },
+ {
+  "dataset": "HU-CHB",
+  "n": 206,
+  "outcome": "class_rejected",
+  "overdispersion": 10.0,
+  "segregating_sites": 3343513.0,
+  "tv_budget": 50.0
+ }
+]

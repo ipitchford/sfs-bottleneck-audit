@@ -1,0 +1,65 @@
+[
+  {
+    "id": "HU-YRI",
+    "file": "HU-YRI.sfs",
+    "loader": "fitcoal",
+    "n": 216,
+    "sha256": "8bc2188698296a8680a4acd2737a1ba8ab4abb3a026620595599a6c979848cc8"
+  },
+  {
+    "id": "HU-ESN",
+    "file": "HU-ESN.sfs",
+    "loader": "fitcoal",
+    "n": 198,
+    "sha256": "4a136ee26ec5aa4a1475e3ffa7fa4810885b8ed5978e5f61a65ed21d0109945f"
+  },
+  {
+    "id": "HU-LWK",
+    "file": "HU-LWK.sfs",
+    "loader": "fitcoal",
+    "n": 198,
+    "sha256": "13c66e6d371612b57ce659d4e82df03f93553ac4f082ac430f1b51ca20e313e5"
+  },
+  {
+    "id": "HU-MSL",
+    "file": "HU-MSL.sfs",
+    "loader": "fitcoal",
+    "n": 170,
+    "sha256": "671de1145b86fc3c2e3991a20a0e37372ce597bde7a8be5f3e8e3ca644f188c0"
+  },
+  {
+    "id": "HU-GWD",
+    "file": "HU-GWD.sfs",
+    "loader": "fitcoal",
+    "n": 226,
+    "sha256": "aee788bd6c263e38ef1d59ce9360f2f4acc572daeb72ae4988c72a8643c75ffe"
+  },
+  {
+    "id": "HU-CEU",
+    "file": "HU-CEU.sfs",
+    "loader": "fitcoal",
+    "n": 198,
+    "sha256": "0199e656a7284e2e0f7daa1b2fb9568b9abc16e7a3aa8809d67b0dd8357586b9"
+  },
+  {
+    "id": "HU-CHB",
+    "file": "HU-CHB.sfs",
+    "loader": "fitcoal",
+    "n": 206,
+    "sha256": "b3ffe263724bd2bcb707c1504f773f4160ce73a40ade5a7d865d0a1aee3881fa"
+  },
+  {
+    "id": "DENG-YRI",
+    "file": "DENG-YRI.sfs",
+    "loader": "fitcoal",
+    "n": 216,
+    "sha256": "0f9196e0fea88bfbdc659f38b2bfaa9ec92b10a13e74a7c241d86e71a6faacbb"
+  },
+  {
+    "id": "COUSINS-YRI",
+    "file": "COUSINS-YRI.txt",
+    "loader": "column",
+    "n": 216,
+    "sha256": "4593acb24d42d9242b6b6844bb3e16efe8f3f40a2fd7777166f88ead5a837d61"
+  }
+]

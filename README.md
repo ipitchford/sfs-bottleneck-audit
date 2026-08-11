@@ -56,3 +56,4 @@ budget V=0.5, primary reference window):
   Deng et al.'s more conservative YRI processing is uninformative at the
   family-union level: the severity question remains class-identified, and
   every certified statement above is conditional on its declared setting.
+- B2 Zenodo (version): https://doi.org/10.5281/zenodo.21893989

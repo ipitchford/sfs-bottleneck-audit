@@ -32,3 +32,27 @@ repository DATA_PROVENANCE.md.
 - Zenodo (concept): https://doi.org/10.5281/zenodo.21893571
 - Protocol: https://doi.org/10.5281/zenodo.21893436 (tag v0.1.1-candidate)
 - Archived bytes verified identical to the v0.1.0-candidate release asset.
+
+## Release B2 (v0.2.0): executed audit under the A2 error model
+
+Protocol A2: tag v0.2.0-candidate, doi 10.5281/zenodo.21893667. Receipt:
+4,963 rows, 4,884 bounded, 79 class-rejected, 0 aborted.
+
+Pre-registered findings (family-union intervals per declared setting, tight
+budget V=0.5, primary reference window):
+
+- **The claimants' own YRI spectrum**, under the most information-preserving
+  declared setting (e=0.005, all classes, n_eff=10,000), certifies the
+  depression ratio within **[0.162, 0.934]** across the entire 12-mapping
+  claim-window family: the ancient window average is certifiably depressed
+  below the recent baseline AND certifiably far above FitCoal-level severity
+  (0.05-0.1). The independent Cousins-Durvasula YRI processing agrees:
+  **[0.132, 0.961]**. "Depressed, not severe" is the certified reading of
+  both YRI processings under those settings.
+- **CEU and CHB** (out-of-Africa contrasts) certifiably exclude severity in
+  9 of their feasible settings each and never certify depression, matching
+  the dispute's shared premise that the signal is African-specific.
+- **Across the full concession ladder the sets widen to uninformative**, and
+  Deng et al.'s more conservative YRI processing is uninformative at the
+  family-union level: the severity question remains class-identified, and
+  every certified statement above is conditional on its declared setting.
